@@ -8,4 +8,4 @@ Aqui é onde eu choro e minha mãe não vê.
   
 🌱 Estou aprendendo Java
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasojesus&layout=compact)](https://github.com/douglasojesus/github-readme-stats)
+&&&///'''###[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasojesus&layout=compact)](https://github.com/douglasojesus/github-readme-stats)
