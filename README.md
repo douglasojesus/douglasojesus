@@ -4,4 +4,4 @@ Aqui é "onde o filho chora e a mãe não vê!" 🤣
 
 🌱  Estou aprendendo Java
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasojesus)](https://github.com/douglasojesus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasojesus&layout=compact)](https://github.com/douglasojesus/github-readme-stats)
