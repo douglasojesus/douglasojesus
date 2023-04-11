@@ -1,5 +1,5 @@
 <h3>
-<h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Olá!
+<h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Olá! Bem-vindx!
 <h3/>
   
 Estou cursando Engenharia de Computação na Universidade Estadual de Feira de Santana (UEFS).
