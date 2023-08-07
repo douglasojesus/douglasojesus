@@ -4,7 +4,7 @@
   
 Estou cursando Engenharia de Computação na Universidade Estadual de Feira de Santana (UEFS).
 
- - 💻 Sei enrolar em Python e C
+ - 💻 Sei enrolar em Python, C e Java
   
  - 🌱 Estou aprendendo Django e Flutter
   
