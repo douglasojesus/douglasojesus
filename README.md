@@ -6,7 +6,7 @@ Estou cursando Engenharia de Computação na Universidade Estadual de Feira de S
 
  - 💻 Sei enrolar em Python e C
   
- - 🌱 Estou aprendendo Java
+ - 🌱 Estou aprendendo Django e Flutter
   
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglasojesus/)
   
