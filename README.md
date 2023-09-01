@@ -8,7 +8,8 @@ Estou cursando Engenharia de Computação na Universidade Estadual de Feira de S
   
  - 🌱 Estou aprendendo Django e Flutter
   
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglasojesus/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglasojesus/)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasojesus)
   
   
 <h3 align="left">Languages and Tools:</h3>
