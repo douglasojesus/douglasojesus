@@ -12,6 +12,7 @@ Estou cursando Engenharia de Computação na Universidade Estadual de Feira de S
  - 🌱 Modelagem de Banco de Dados
 
 📚 Ministro cursos de Python e Desenvolvimento Mobile.
+
 📚 Faço pesquisa na área de educação em computação e aprendizagem ativa.
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglasojesus/)
