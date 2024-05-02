@@ -5,12 +5,11 @@
 Estou cursando Engenharia de Computação na Universidade Estadual de Feira de Santana (UEFS).
 
  - 💻 Python, C e Java
- - 💻 Django e DRF (API)
-  
+ 
+ - 🌱 Django e DRF (API)
  - 🌱 Flutter
  - 🌱 GoF Design Patterns
  - 🌱 Modelagem de Banco de Dados
- - 🤔 Às vezes um projetinho em Verilog ou Assembly (ARM)
 
 📚 Ministro cursos de Python e Desenvolvimento Mobile.
 
