@@ -28,6 +28,9 @@ I'm studying Computer Engineering at the Universidade Estadual de Feira de Santa
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="flutter" width="40" height="40"/>
   </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://d33wubrfki0l68.cloudfront.net/49c2be6f2607b5c12dd27f8ecc8521723447975d/f05c5/logo-small.cbbeba89.svg" alt="nestjs" width="40" height="40"/>
+  </a>
 </span>
 
 <h3 align="left">Tools:</h3>
