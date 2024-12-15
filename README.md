@@ -11,7 +11,7 @@ I'm studying Computer Engineering at the Universidade Estadual de Feira de Santa
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglasojesus/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasojesus)
   
-<h3 align="left">Languages and Frameworks:</h3>
+<h3 align="left">Technologies:</h3>
 <span>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -31,6 +31,13 @@ I'm studying Computer Engineering at the Universidade Estadual de Feira de Santa
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://d33wubrfki0l68.cloudfront.net/49c2be6f2607b5c12dd27f8ecc8521723447975d/f05c5/logo-small.cbbeba89.svg" alt="nestjs" width="40" height="40"/>
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo.png" alt="nestjs" width="40" height="40"/>
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/dc96cf86-cb08-4419-8178-f5b73255b24e" alt="nestjs" width="40" height="40"/>
+  </a>
+
 </span>
 
 <h3 align="left">Tools:</h3>
